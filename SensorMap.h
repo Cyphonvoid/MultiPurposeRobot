@@ -1,5 +1,3 @@
-#include "SensorMap.h"
-
 struct ThreeSensorVals{
     bool left_val = -1;
     bool mid_val = -1;
